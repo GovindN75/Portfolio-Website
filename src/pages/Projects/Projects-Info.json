@@ -3,14 +3,14 @@
         "key": 0,
         "head": "Recipe.io",
         "desc": "A full-stack web application for finding recipes based on your available ingredients.",
-        "link": "https://github.com/danwei002/Recipe.io",
+        "link": "https://github.com/GovindN75/HTN-Project",
         "tools": "React.js, Node.js, Express.js, Bootstrap"
     },
     {
         "key": 1,
         "head": "Flappy Bird AI",
         "desc": "An agent that uses NeuroEvolution to beat Flappy Bird.",
-        "link": "https://github.com/danwei002/Stick-Hero-6",
+        "link": "https://github.com/GovindN75/Flappy-Bird-AI",
         "tools": "Python, Pygame, NEAT"
     },
     {
@@ -24,21 +24,21 @@
         "key": 3,
         "head": "Portfolio Website",
         "desc": "The website you're on right now. Created using React.js and the Bootstrap library.",
-        "link": "https://github.com/danwei002/Portfolio-Website",
+        "link": "https://github.com/GovindN75/Portfolio-Website",
         "tools": "React.js, HTML, CSS, JS, Bootstrap"
     },
     {
         "key": 4,
         "head": "Sorting Visualizer",
         "desc": "A visualizer for various commonly used sorting algorithms. Created using Python and Matplotlib.",
-        "link": "https://github.com/danwei002/Cards-Bot",
+        "link": "https://github.com/GovindN75/Sorting-Visualizer",
         "tools": "Python, Matplotlib"
     },
     {
         "key": 5,
         "head": "Battleship-Inspired Game",
-        "desc": "A twist on the classic Battleship game developed in Java using the Greenfoot IDE.",
-        "link": "https://github.com/danwei002/Battleship-Project",
+        "desc": "A tweaked version of the classic Battleship game built using Java and the Greenfoot IDE.",
+        "link": "https://github.com/GovindN75/Battleship-Project",
         "tools": "Java, Greenfoot"
     }
 ]
