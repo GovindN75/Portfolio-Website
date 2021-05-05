@@ -28,7 +28,6 @@ const App = () => {
       </div>
             <hr />
       <Projects />
-      <hr />
       <Container className="container-box rounded">
           <hr />
           <Contact />
