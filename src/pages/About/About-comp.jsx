@@ -6,6 +6,7 @@ import "./about-style.css";
 import Profile from "../../assets/img/Profile/me.jpeg";
 import Image from "react-bootstrap/Image";
 import Button from "react-bootstrap/Button";
+import Resume from "../../assets/Resume.pdf"
 
 const About = () => {
   return (
@@ -28,7 +29,7 @@ const About = () => {
                 <br />
                 
                 <br />Other than coding, I enjoy reading, gaming and working out. Due to COVID, gaming is one of the ways I get to keep in touch with my friends and relax after a long day. 
-                If you would like some Netflix reccomendations, some of my favourites include: Brooklynn Nine Nine, The Office and Naruto (for all you anime fans out there). 
+                If you would like some Netflix reccomendations, some of my favourites include: Brooklyn Nine Nine, The Office and Naruto (for all you anime fans out there). 
 
                 <br />
                 <br /> <br />
@@ -41,7 +42,7 @@ const About = () => {
                     </a>
                   </div>
                   <div>
-                    <a href="#about" target="_blank" rel="noopener noreferrer">
+                    <a href={Resume} target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-success">
                         My Resume
                       </Button>
