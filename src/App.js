@@ -12,7 +12,7 @@ import "./App.css";
 
 const App = () => {
   return (
-    <div className="App" style={{ position: "relative" }}>
+    <div className="App" style={{ position: "relative", backgroundColor: "#1d1b19"}}>
       <MyNavbar />
       <Homeimg />
       <LandingTitle />

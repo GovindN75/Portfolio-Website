@@ -2,10 +2,24 @@
 
 .initials {
   font-family: "Rock Salt", cursive;
+  color: white !important;
 }
 .nav-theme {
   background-color: transparent;
   font-size: 20px;
+}
+
+.inactive {
+  color: white !important;
+}
+
+.inactive:hover {
+  transition: all 0.2s ease-in;
+  color: #99774f !important;
+}
+
+.nav-link {
+  font-family: "Lato", sans-serif;
 }
 
 .animate-navbar {

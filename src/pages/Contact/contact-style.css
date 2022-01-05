@@ -3,3 +3,35 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
+.talk-button {
+  background-color: transparent;
+  border-color: #4a4947;
+}
+
+.talk-button:hover {
+  transition: all 0.3s ease-in-out;
+  border-color: #99774f;
+  background-color: transparent;
+}
+
+.linkedin-button {
+  background-color: transparent;
+  border-color: #4a4947;
+}
+
+.linkedin-button:hover {
+  transition: all 0.3s ease-in-out;
+  border-color: #99774f;
+  background-color: transparent;
+}
+
+.git-button {
+  background-color: transparent;
+  border-color: #4a4947;
+}
+
+.git-button:hover {
+  transition: all 0.3s ease-in-out;
+  border-color: #99774f;
+  background-color: transparent;
+}

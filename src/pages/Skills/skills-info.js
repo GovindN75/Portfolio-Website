@@ -13,6 +13,7 @@ import TENSORFLOW_IMG from "../../assets/img/skills/tf.svg";
 import KERAS_IMG from "../../assets/img/skills/keras.svg";
 import mySQL_IMG from "../../assets/img/skills/mysql.svg";
 import GIT_IMG from "../../assets/img/skills/git.svg";
+import TS_IMG from "../../assets/img/skills/typescript.svg";
 
 export const skills= {
     languages: [
@@ -58,10 +59,15 @@ export const skills= {
             img: BOOTSTRAP_IMG, 
             img_alt: "Bootstrap img",
         },
-                {
+        {
             name: "JavaScript", 
             img: JAVASCRIPT_IMG,
             img_alt: "JavaScript img",
+        },
+        {
+            name: "TypeScript",
+            img: TS_IMG,
+            img_alt: "TypeScript img"
         },
         {
             name: "HTML5", 

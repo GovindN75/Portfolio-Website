@@ -4,13 +4,71 @@
 }
 
 .profile {
-  max-width: 30vh;
+  max-width: 35vh;
+  background-color: transparent;
+  border: none;
+  border-radius: 50%;
 }
 
 .my-details {
-  background-color: white;
+  background-color: transparent;
 }
 
 .font-details {
-  color: white;
+  color: transparent;
+}
+
+.resume-button {
+  background-color: transparent;
+  border-color: #4a4947;
+}
+
+.resume-button:hover {
+  transition: all 0.3s ease-in-out;
+  border-color: #99774f;
+  background-color: transparent;
+}
+
+.resume-button:focus {
+  background-color: transparent;
+}
+
+.talk-button {
+  background-color: transparent;
+  border-color: #4a4947;
+}
+
+.talk-button:hover {
+  transition: all 0.3s ease-in-out;
+  border-color: #99774f;
+  background-color: transparent;
+}
+.git-button {
+  background-color: transparent;
+  border-color: #4a4947;
+}
+
+.git-button:hover {
+  transition: all 0.3s ease-in-out;
+  border-color: #99774f;
+  background-color: transparent;
+}
+
+.git-button:focus {
+  background-color: transparent;
+}
+
+.linkedin-button {
+  background-color: transparent;
+  border-color: #4a4947;
+}
+
+.linkedin-button:hover {
+  transition: all 0.3s ease-in-out;
+  border-color: #99774f;
+  background-color: transparent;
+}
+
+.linkedin-button:focus {
+  background-color: transparent;
 }

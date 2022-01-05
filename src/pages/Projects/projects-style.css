@@ -1,5 +1,6 @@
 .project-card {
-  background-color: #0d0d0d;
+  background-color: transparent;
+  border: 1px solid #888888;
   width: 95%;
   height: 237px;
   top: 0px;
@@ -29,5 +30,5 @@
 .project-card:hover {
   transition: all 0.3s ease-in-out;
   transform: scale(0.98);
-  border: 1px solid #66fcf1;
+  border: 1px solid #99774f;
 }
