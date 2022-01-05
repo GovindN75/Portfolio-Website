@@ -37,7 +37,7 @@
     {
         "key": 5,
         "head": "Battleship-Inspired Game",
-        "desc": "A tweaked version of the classic Battleship game built using Java and the Greenfoot IDE.",
+        "desc": "Our version of the original Battleship game built using Java and the Greenfoot IDE.",
         "link": "https://github.com/GovindN75/Battleship-Project",
         "tools": "Java, Greenfoot"
     }

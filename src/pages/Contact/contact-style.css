@@ -14,6 +14,10 @@
   background-color: transparent;
 }
 
+.talk-button:active {
+  background-color: transparent !important;
+}
+
 .linkedin-button {
   background-color: transparent;
   border-color: #4a4947;
@@ -25,6 +29,10 @@
   background-color: transparent;
 }
 
+.linkedin-button:active {
+  background-color: transparent !important;
+}
+
 .git-button {
   background-color: transparent;
   border-color: #4a4947;
@@ -34,4 +42,8 @@
   transition: all 0.3s ease-in-out;
   border-color: #99774f;
   background-color: transparent;
+}
+
+.git-button:active {
+  background-color: transparent !important;
 }

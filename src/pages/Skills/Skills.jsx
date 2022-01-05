@@ -14,7 +14,7 @@ const Skills = () => {
       <CardDeck>
         <Row className="d-flex justify-content-around">
           <Col md={4}>
-            <Card className="focus mt-2 mb-2" style={{backgroundColor: "#FEFBEA"}}>
+            <Card className="focus mt-2 mb-2" style={{backgroundColor: "transparent", border: "1px white solid"}}>
               <Card.Body>
                 <Card.Title className="text-center card-title" style={{color: "#99774f"}}>Programming Languages</Card.Title>
                 <hr />
@@ -32,7 +32,7 @@ const Skills = () => {
           </Col>
 
           <Col md={4}>
-            <Card className="focus mt-2 mb-2" style={{backgroundColor: "#FEFBEA"}}>
+            <Card className="focus mt-2 mb-2" style={{backgroundColor: "transparent", border: "1px white solid"}}>
               <Card.Body>
                 <Card.Title className="text-center  card-title" style={{color: "#99774f"}}>Web Development</Card.Title>
                 <hr />
@@ -50,7 +50,7 @@ const Skills = () => {
           </Col>
 
           <Col md={4}>
-            <Card className="focus mt-2 mb-2" style={{backgroundColor: "#FEFBEA"}}>
+            <Card className="focus mt-2 mb-2" style={{backgroundColor: "transparent", border: "1px white solid"}}>
               <Card.Body>
                 <Card.Title className="text-center card-title" style={{color: "#99774f"}}>Tools and Technologies</Card.Title>
                 <hr />

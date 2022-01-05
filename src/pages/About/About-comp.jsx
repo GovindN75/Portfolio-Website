@@ -23,7 +23,7 @@ const About = () => {
             <Col xs={12} md={6}>
               <Row className="align-items-start p-2 my-details rounded" style={{backgroundColor: "#1d1b19"}}>
                 <span className="font-details" style={{fontSize: "1.1em", color: "#888888"}}>
-                  Nice to meet you! I am <strong>&nbsp;Govind Nair</strong>
+                  Nice to meet you! I am<strong>&nbsp;Govind Nair</strong>
                   <br />I'm currently at UWaterloo majoring in the ever expanding subject, Computer Science.<br />
                   <br />I enjoy all things computer related but if you had to ask me what I find most interesting, it would have to be Machine Learning, Game Development and App/Web Development. 
                   
