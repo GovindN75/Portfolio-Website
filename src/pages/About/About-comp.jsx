@@ -12,7 +12,7 @@ const About = () => {
   return (
     <div id="about">
       <div className="about">
-        <h1 className="pt-3 text-center font-details pb-3" style={{color: "#99774f", fontFamily: "Lato", fontWeight: "400"}}>About Me</h1>
+        <h1 className="pt-3 text-center font-details pb-3" style={{color: "#99774f"}}>About Me</h1>
         <Container>
           <Row className="pt-3 pb-5 align-items-center">
             <Col xs={12} md={6} style={{backgroundColor: "transparent"}}>
@@ -22,7 +22,7 @@ const About = () => {
             </Col>
             <Col xs={12} md={6}>
               <Row className="align-items-start p-2 my-details rounded" style={{backgroundColor: "#1d1b19"}}>
-                <span className="font-details" style={{fontSize: "1.1em", fontFamily: "Lato", color: "#888888"}}>
+                <span className="font-details" style={{fontSize: "1.1em", color: "#888888"}}>
                   Nice to meet you! I am <strong>&nbsp;Govind Nair</strong>
                   <br />I'm currently at UWaterloo majoring in the ever expanding subject, Computer Science.<br />
                   <br />I enjoy all things computer related but if you had to ask me what I find most interesting, it would have to be Machine Learning, Game Development and App/Web Development. 
